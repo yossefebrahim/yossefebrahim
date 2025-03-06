@@ -10,7 +10,7 @@ I'm an experienced Flutter developer specializing in blockchain solutions. I bui
 ## 🚀 Professional Skills  
 
 - Flutter (Android & iOS apps, UI/UX Design, Cross-platform development)
-- Blockchain Integration (Polygon, Ethereum, BNB, Solana, Tron)
+- Blockchain Integration (BTC, Polygon, Ethereum, BNB, Solana, Tron)
 - Wallet Development (Single and Multi-signature wallets, asset-backed stablecoins)
 - WalletConnect and dApp Integration
 - Cross-chain Swapping and Bridging Solutions
@@ -23,7 +23,7 @@ I'm an experienced Flutter developer specializing in blockchain solutions. I bui
 ## 🌟 Key Projects  
 
 ### 📱 Multi-chain Wallet Application  
-- Developed a Flutter-based wallet supporting Polygon, Ethereum, BNB, Solana, and Tron.  
+- Developed a Flutter-based wallet supporting BTC, Polygon, Ethereum, BNB, Solana, and Tron.  
 - Enabled single and multi-signature wallet creation.  
 - Integrated Web3 browser and WalletConnect for seamless dApp interactions.
 
