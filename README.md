@@ -7,6 +7,11 @@ I'm an experienced Flutter developer specializing in blockchain solutions. I bui
 
 ---
 
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yossefebrahim2002) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yossefebrahim69)
+
+---
+
 ## 🚀 Professional Skills  
 
 - Flutter (Android & iOS apps, UI/UX Design, Cross-platform development)
