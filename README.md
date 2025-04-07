@@ -1,7 +1,7 @@
 <h1 align="left">Hi there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Yossef</h1>
 
 
-Blockchain & Flutter Developer (He/Him) • 3+ Years Experience  
+Blockchain & Flutter Developer  • 3+ Years Experience  
 
 I'm an experienced Flutter developer specializing in blockchain solutions. I build secure multi-chain wallet applications, decentralized exchanges, blockchain games, and asset management platforms across Polygon, Ethereum, BNB, Solana, and Tron networks.
 
