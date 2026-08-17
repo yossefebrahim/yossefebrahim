@@ -1,6 +1,6 @@
 # Yossef Ebrahim
 
-**Flutter Engineer — Web3 & AI products**<br>
+**Mobile Engineer — Web3 & AI products**<br>
 Cairo (UTC+3) · remote across 8 countries
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yossefebrahim.xyz-111111?style=flat-square)](https://www.yossefebrahim.xyz)
